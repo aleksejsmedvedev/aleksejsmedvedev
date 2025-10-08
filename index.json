@@ -1,0 +1,16 @@
+{
+  "title": "Моё меню TV",
+  "background": "black",
+  "items": [
+    {
+      "type": "link",
+      "title": "📺 OTT Player",
+      "url": "https://msx.benzac.de/player/ottplayer/"
+    },
+    {
+      "type": "link",
+      "title": "🎬 Vokino.tv",
+      "url": "https://vokino.tv"
+    }
+  ]
+}
